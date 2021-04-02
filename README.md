@@ -1,4 +1,4 @@
-# cs-cfg
+# toa-csgo-cfg
 
 This repository contains common configurations used by TOA on Counter Strike - Global Offensive
 
